@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/client.h
+vehicle-types.h
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/vehicle-types.h
+vector
+-
+
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/main.cpp
+client.h
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/client.h
+
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/vehicle-types.h
+vehicle.h
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/vehicle.h
+
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/vehicle.h
+iostream
+-
+string.h
+/home/csmajs/agarc305/labs/design-Ex-s/Factory/string.h
+
